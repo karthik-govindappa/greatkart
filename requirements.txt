@@ -1,0 +1,5 @@
+black==21.5b1
+Django==3.2.3
+flake8==3.9.2
+isort==5.8.0
+Pillow==8.2.0
